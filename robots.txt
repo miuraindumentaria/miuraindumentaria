@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miuraindumentaria.netlify.app/sitemap.xml
