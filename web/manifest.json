@@ -1,0 +1,24 @@
+{
+  "name": "Miura Indumentaria",
+  "short_name": "Miura",
+  "description": "Moda femenina urbana y chic en Formosa. Envio a domicilio y retiro en tienda.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E1306C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%23E1306C' width='192' height='192' rx='36'/%3E%3Ctext x='96' y='116' font-family='Arial' font-size='100' fill='white' text-anchor='middle'%3EM%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect fill='%23E1306C' width='512' height='512' rx='96'/%3E%3Ctext x='256' y='340' font-family='Arial' font-size='280' fill='white' text-anchor='middle'%3EM%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
